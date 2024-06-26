@@ -1,0 +1,242 @@
+.home{
+    background-image: url(./pictures/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+}
+.navbar2{
+    background-color: transparent !important;
+    color: white !important;
+}
+.navbar-brand span{
+    font-family: 'Dancing Script', cursive;
+}
+.buttonn{
+    background-color: #f4c152 !important;
+   
+}
+.buttonn:hover{
+    background-color: #f9ac03 !important;
+}
+
+.icon{
+    font-size: 20px;
+    
+}
+.heading{
+    
+    font-family: Dancing Script;
+    color: white;
+    font-size: 60px;
+    /* padding-top: 120px !important; */
+   
+   
+    
+}
+.para{
+    font-size: 15px;
+}
+.button{
+    /* width: 75%; */
+    background-color: #f4c152 !important;
+}
+.button:hover{
+    background-color: #f9ac03 !important;
+}
+
+.owl-theme  .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #ffbe33 !important;
+    display: flex;
+    
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 20px !important;
+    display: flex;
+    margin-left: 20px !important;
+    
+}
+.owl-theme .owl-dots .owl-dot {
+    width: 20px !important;
+    display: flex;
+    justify-content: start;
+    height: 20px !important;
+    margin: 5px 5px !important;
+    background: white !important;
+    text-align: start !important;
+    display: block;
+   
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+.owl-theme .owl-dots .owl-dot.active {
+    width: 20px !important;
+    display: flex;
+    justify-content: start;
+    height: 20px !important;
+    margin: 5px 5px !important;
+    background: #f9ac03 !important;
+    text-align: start !important;
+    display: block;
+   
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+.plex{
+    background-color: #1F242D !important;
+    width: 95%;
+    
+
+}
+.tasy{
+    font-family: Dancing Script,italic;
+    color: white;
+    font-size: 30px ;
+    float: start;
+    padding-top: 20px;
+}
+.imggi{
+    border: 5px solid #ffba26  !important;
+    
+}
+.imgg{
+    padding: 30px 10px 20px 20px !important;
+}
+.tast{
+    font-family: Dancing Script,italic;
+    color: white;
+   
+    float: start;
+   
+}
+.buttonm{
+   
+    background-color: #fdc243 !important;
+    font-size: 20px !important;
+}
+.buttonm:hover{
+    background-color: #f9ac03 !important;
+}
+.imgg:hover{
+    font-size: 20px !important;
+}
+.menu{
+    font-family: Dancing script , italic;
+    font-weight: bold;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white;
+    background-color:black;
+}
+.nav-link {
+    color: black;
+}
+.card{
+    border: none;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     
+     
+}
+.card-icon{
+    background-color: #f9ac03 !important;
+    
+}
+/* .product-details{
+   border-top-left-radius: 50px;
+} */
+.card-text{
+    font-size: 15px !important;
+}
+.card-head{
+    font-size: 20px !important;
+}
+.view-more{
+    background-color: #f8c149 !important;
+    color: white;
+    font-weight: 500;
+    
+}
+.view-more:hover{
+    background-color: #fab112 !important;
+    
+
+}
+.about-more{
+    background-color: #1F242D !important;
+    /* height: 700px !important; */
+    align-self: center;
+    
+}
+.about-para{
+    font-size: 20px !important;
+}
+.card-image{
+    border-radius: 25px !important;
+}
+ .option-select{
+    border-left: none !important;
+
+}
+.heading2{
+    font-family: Dancing Script;
+    color: white;
+    font-size: 60px;
+    
+
+}
+.map{
+    padding-top: 80px !important;
+    border-radius: 20px !important;
+}
+.carosal3{
+    background-color: #1F242D !important;
+    color: white !important;
+    border-radius: 10px ;
+}
+.first{
+    font-size: 18px !important;
+}
+.second{
+    font-size: 20px !important;
+}
+.third{
+    font-size: 15px !important;
+}
+.crousal-image{
+    border: 5px solid #f9ac03 !important;
+    
+}
+.owl-maker .owl-nav .owl-next, .owl-maker .owl-nav .owl-prev {
+    background:#f9ac03 !important;
+    color: inherit;
+    border: none;
+    display: block !important;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding: 10px !important;
+    font: inherit;
+    
+    /* margin-top: 20px !important; */
+   
+}
+
+.foot{
+    color: white;
+    font-family: dancing script , italic;
+    font-size: 40px;
+}
+.footer-item:hover{
+    color: #f9ac03 !important;
+
+}
+
+
+
+
+
+
+
+
